@@ -1,0 +1,74 @@
+what is java
+
+*high-level programming 
+*99% oop 
+*platform independent 
+*multithreaded PL 
+  1995 --> sunMicrossystem Now oracle 
+
+Wora  --- concepts 
+  Techicaly :  
+
+
+jDK---->
+Its software development Environment used for developing java applicatios include javac 
+source --->bytecode
+debugging
+profling
+monitoring 
+
+JrE ---
+inside is the JDK 
+Libraries of java 
+also the components which the run application java 
+
+Jvm --->abstract Machine 
+which will provide the runtime environment where java bytecode is executed 
+
+Memory mangemenrt gargabe collection 
+jvm is platform dependent
+
+
+
+ByteCode:
+Java source code is compiled into bytecode by the javac compiler. Bytecode is an intermediate representation of the code that is not machine-specific but rather designed to be executed by the JVM. 
+Grabage Collecetions:
+Java includes an automatic memory management system known as garbage collection.
+Class Libraries:
+java api 
+platform Indepenetent
+Security
+Multhithread 
+jit: just in time Jvm byte -->mdc
+
+
+
+Java Complier :
+java code   -> complier -> Bytecode simple.java           simple.class 
+
+
+Java Runtime 
+class file 
+    |
+class loader(JVM)
+    |
+Bytecode verified (violate)
+    |
+Interpreter
+    |
+Runtime
+    |
+hardware
+       
+
+
+
+
+
+
+
+
+
+
+
+
