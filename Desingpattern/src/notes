@@ -1,0 +1,13 @@
+Singleton Design Pattern:
+The Singleton Design Pattern is one
+ of the simplest and most commonly
+development. The core idea behind the 
+Singleton pattern is that a class 
+should have only one instance throughout
+ the application, and it provides a global 
+point of access to that instance.
+
+Use Of Singleton:
+1.ResourceManagement 
+2.Global access
+3.control Asscess
