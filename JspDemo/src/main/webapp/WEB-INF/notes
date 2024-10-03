@@ -1,0 +1,66 @@
+What is Jsp ?
+Java Server page 
+Java Server Pages (JSP) is a technology
+ which is used to develop web pages
+  by inserting Java code into the 
+  HTML pages by making special JSP 
+  tags. The JSP tags which 
+  allow java code to be included
+ into it are <% —-java code—-%>.
+ 
+ Html or xml -->both is possible in jsp 
+ 
+ Jsp is actulay dynamic page 
+ Jsp --- javabeans 
+ JSP can be used for separation 
+ of the view layer with the
+  business logic in the web application.
+  
+  
+  JSP LIFECYCLE :
+  * translate the jsp to servlet page First 
+  
+  
+  jsp pages :
+  1 parsing jsp 
+  2 Turning jsp into servlet 
+  3 compliling the servlet 
+  
+  JSP life Cycle:
+  
+  1.Translation of jsp server 
+  2. complilation of jsp 
+       demo.jsp --> demo.java(Servlet)
+  3.class loading (demo.java -> demo.class)
+  4.INstantiation (object generation of servlets)
+  5.initialisation (_jspinit()) 
+  6.Requestprocessing (_jspservice)
+  7.destroy()     
+  
+  JSP ELEMENTS 
+  jsp DECLREATION 
+  jsp SYNTAX 
+  JSP EXPRESSION 
+  JSP COMMENTS 
+  <%%>---SCRIPTlets service class 
+  <%! %> -- Global declreation of variables in servlets 
+  <%@ %> -- package or import 
+  <%= %> expression part 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
